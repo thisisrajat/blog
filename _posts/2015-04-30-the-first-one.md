@@ -4,7 +4,7 @@ title: "The first one"
 author: "Rajat Jain"
 categories: life-update
 tags: [life-updates]
-image: firstone.jpg
+image: firstone
 ---
 
 > Ever since I set up this blog, I had this urge to write. Write about anything I can think of. But I always wanted the beginning to be the most memorable one. I wanted to write that one special post, that sticks. I kept on thinking – what can be written that is as good as saying “Hello, World!” but says more than that. As it turns out nothing is.

@@ -4,7 +4,7 @@ title: "So a year later..."
 author: "Rajat Jain"
 categories: life-update
 tags: [life-updates]
-image: workhard.jpg
+image: workhard
 ---
 
 > “Well, well! Where have you been?”

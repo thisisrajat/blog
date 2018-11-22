@@ -4,7 +4,7 @@ title: "Sunset for TheTechNext"
 author: "Rajat Jain"
 categories: projects
 tags: [projects,side-hustle]
-image: sunset.jpg
+image: sunset
 ---
 
 > It’s time to sleep. So long, and thanks for all the fish! - TheTechNext
